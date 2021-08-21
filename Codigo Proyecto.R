@@ -29,7 +29,7 @@ edad= data$Age    # Edad del paciente
 
 # Se hara una prueba de Independencia
 
-
+#cambio2
 
 
 #2. Verificar si existe asociaci?n estad?stica entre el tipo de la enfermedad y la edad de la persona.
